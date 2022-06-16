@@ -1,3 +1,5 @@
+Files in this repository are binary files compiled using gcc (Debian 8.3.0-6) 8.3.0 on Debian GNU/Linux 10.
+
 # Project-Euler
 I learned so much solving problem XXX, so is it okay to publish my solution elsewhere?  
 
